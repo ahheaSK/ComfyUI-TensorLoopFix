@@ -1,0 +1,13 @@
+[
+  {
+    "author": "x",
+    "title": "TensorLoopFix",
+    "id": "tensorloopfix",
+    "reference": "https://github.com/ahheaSK/ComfyUI-TensorLoopFix",
+    "files": [
+      "https://github.com/ahheaSK/ComfyUI-TensorLoopFix"
+    ],
+    "install_type": "git-clone",
+    "description": "helper"
+  }
+]
